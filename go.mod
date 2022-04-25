@@ -1,4 +1,4 @@
-module github.com/pdfcpu/pdfcpu
+module github.com/vigenere92/pdfcpu
 
 go 1.17
 
